@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+
+.chart{
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
